@@ -10,6 +10,8 @@ public class DijkstraAlgorithm {
 }
 
 class Graph {
+    public Graph() {
 
+    }
 
 }
